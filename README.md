@@ -1,5 +1,6 @@
 # ORION — Beleza Profissional
-- Sito per visualizzare https://orion-beauty-pro.lovable.app
+- Site para visualizar  https://orion-beauty-pro.lovable.app
+  
 Site institucional e catálogo da **ORION**, marca de produtos profissionais de beleza voltada para salões: tintas, máscaras de hidratação, shampoos, condicionadores e perucas premium.
 
 ## 🔗 Link de teste
